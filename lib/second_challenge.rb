@@ -10,6 +10,6 @@ def second_challenge
 
   puts groceries.values 
   
-  groceries.values 
+  groceries.values.flatten 
   
 end
